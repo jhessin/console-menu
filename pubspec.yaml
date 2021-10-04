@@ -1,7 +1,8 @@
 name: console_menu
 description: A starting point for Dart libraries or applications.
-version: 0.0.1
+version: 0.0.1-dev.1
 # homepage: https://www.example.com
+repository: https://www.github.com/jhessin/console-menu/
 
 environment:
   sdk: '>=2.15.0-168.0.dev <3.0.0'
