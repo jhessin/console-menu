@@ -1,11 +1,11 @@
 name: console_menu
-description: A starting point for Dart libraries or applications.
+description: A menu driven by the console package for command line applications.
 version: 0.0.1-dev.1
 # homepage: https://www.example.com
 repository: https://www.github.com/jhessin/console-menu/
 
 environment:
-  sdk: '>=2.15.0-168.0.dev <3.0.0'
+  sdk: '>=2.14.0 <3.0.0'
 
 
 # dependencies:
